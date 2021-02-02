@@ -1,0 +1,29 @@
+@font-face {
+    font-weight: 300;
+	font-style: normal;
+	font-family: 'Open sans';
+	font-display: swap;
+	src: local('opensans'),
+    url('../font/OpenSans-Light.woff2') format('woff2'),
+    url('../font/OpenSans-Light.woff') format('woff')	  
+}
+
+@font-face {
+    font-weight: 300;
+	font-style: normal;
+	font-family: 'PT sans';
+	font-display: swap;
+	src: local('PT Sans'),
+    url('../font/PTSans-Regular.woff2') format('woff2'),
+    url('../font/PTSans-Regular.woff') format('woff')	  
+}
+
+@font-face {
+    font-weight: 400;
+	font-style: normal;
+	font-family: 'PT sans';
+	font-display: swap;
+	src: local('PT Sans'),
+    url('../font/PTSans-Bold.woff2') format('woff2'),
+    url('../font/PTSans-Bold.woff') format('woff')	  
+}
